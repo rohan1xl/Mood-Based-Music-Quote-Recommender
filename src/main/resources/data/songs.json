@@ -1,0 +1,472 @@
+{
+  "happy": [
+    {
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "mood": "happy",
+      "pathOrUrl": "https://www.youtube.com/watch?v=ZbZSe6N_BXs",
+      "isLocal": false,
+      "genre": "Pop",
+      "duration": 233
+    },
+    {
+      "title": "Walking on Sunshine",
+      "artist": "Katrina & The Waves",
+      "mood": "happy",
+      "pathOrUrl": "https://www.youtube.com/watch?v=iPUmE-tne5U",
+      "isLocal": false,
+      "genre": "Pop",
+      "duration": 239
+    },
+    {
+      "title": "Good as Hell",
+      "artist": "Lizzo",
+      "mood": "happy",
+      "pathOrUrl": "https://www.youtube.com/watch?v=SmbmeOgWsqE",
+      "isLocal": false,
+      "genre": "Pop",
+      "duration": 219
+    },
+    {
+      "title": "Can't Stop the Feeling!",
+      "artist": "Justin Timberlake",
+      "mood": "happy",
+      "pathOrUrl": "https://www.youtube.com/watch?v=ru0K8uYEZWw",
+      "isLocal": false,
+      "genre": "Pop",
+      "duration": 236
+    },
+    {
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "mood": "happy",
+      "pathOrUrl": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
+      "isLocal": false,
+      "genre": "Funk",
+      "duration": 270
+    }
+  ],
+  "sad": [
+    {
+      "title": "Mad World",
+      "artist": "Gary Jules",
+      "mood": "sad",
+      "pathOrUrl": "https://www.youtube.com/watch?v=4N3N1MlvVc4",
+      "isLocal": false,
+      "genre": "Alternative",
+      "duration": 192
+    },
+    {
+      "title": "Hurt",
+      "artist": "Johnny Cash",
+      "mood": "sad",
+      "pathOrUrl": "https://www.youtube.com/watch?v=8AHCfZTRGiI",
+      "isLocal": false,
+      "genre": "Country",
+      "duration": 218
+    },
+    {
+      "title": "Black",
+      "artist": "Pearl Jam",
+      "mood": "sad",
+      "pathOrUrl": "https://www.youtube.com/watch?v=5ZH2it92ZmA",
+      "isLocal": false,
+      "genre": "Grunge",
+      "duration": 348
+    },
+    {
+      "title": "Everybody Hurts",
+      "artist": "R.E.M.",
+      "mood": "sad",
+      "pathOrUrl": "https://www.youtube.com/watch?v=5rOiW_xY-kc",
+      "isLocal": false,
+      "genre": "Alternative Rock",
+      "duration": 317
+    },
+    {
+      "title": "The Sound of Silence",
+      "artist": "Simon & Garfunkel",
+      "mood": "sad",
+      "pathOrUrl": "https://www.youtube.com/watch?v=4fWyzwo1xg0",
+      "isLocal": false,
+      "genre": "Folk",
+      "duration": 204
+    }
+  ],
+  "stressed": [
+    {
+      "title": "Breathe",
+      "artist": "Telepopmusik",
+      "mood": "stressed",
+      "pathOrUrl": "https://www.youtube.com/watch?v=vyut3GyQtn0",
+      "isLocal": false,
+      "genre": "Electronic",
+      "duration": 274
+    },
+    {
+      "title": "Weightless",
+      "artist": "Marconi Union",
+      "mood": "stressed",
+      "pathOrUrl": "https://www.youtube.com/watch?v=UfcAVejslrU",
+      "isLocal": false,
+      "genre": "Ambient",
+      "duration": 485
+    },
+    {
+      "title": "Clair de Lune",
+      "artist": "Claude Debussy",
+      "mood": "stressed",
+      "pathOrUrl": "https://www.youtube.com/watch?v=CvFH_6DNRCY",
+      "isLocal": false,
+      "genre": "Classical",
+      "duration": 300
+    },
+    {
+      "title": "River",
+      "artist": "Eminem ft. Ed Sheeran",
+      "mood": "stressed",
+      "pathOrUrl": "https://www.youtube.com/watch?v=o_0UJ76GgNM",
+      "isLocal": false,
+      "genre": "Hip Hop",
+      "duration": 221
+    },
+    {
+      "title": "Stress Relief",
+      "artist": "Nature Sounds",
+      "mood": "stressed",
+      "pathOrUrl": "https://www.youtube.com/watch?v=wzjWIxXBs_s",
+      "isLocal": false,
+      "genre": "Ambient",
+      "duration": 3600
+    }
+  ],
+  "excited": [
+    {
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "mood": "excited",
+      "pathOrUrl": "https://www.youtube.com/watch?v=btPJPFnesV4",
+      "isLocal": false,
+      "genre": "Rock",
+      "duration": 245
+    },
+    {
+      "title": "Pump It",
+      "artist": "Black Eyed Peas",
+      "mood": "excited",
+      "pathOrUrl": "https://www.youtube.com/watch?v=ZaI2IlHwmgQ",
+      "isLocal": false,
+      "genre": "Hip Hop",
+      "duration": 213
+    },
+    {
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "mood": "excited",
+      "pathOrUrl": "https://www.youtube.com/watch?v=fKopy74weus",
+      "isLocal": false,
+      "genre": "Pop Rock",
+      "duration": 187
+    },
+    {
+      "title": "Stronger",
+      "artist": "Kelly Clarkson",
+      "mood": "excited",
+      "pathOrUrl": "https://www.youtube.com/watch?v=Xn676-fLq7I",
+      "isLocal": false,
+      "genre": "Pop",
+      "duration": 222
+    },
+    {
+      "title": "We Will Rock You",
+      "artist": "Queen",
+      "mood": "excited",
+      "pathOrUrl": "https://www.youtube.com/watch?v=-tJYN-eG1zk",
+      "isLocal": false,
+      "genre": "Rock",
+      "duration": 122
+    }
+  ],
+  "calm": [
+    {
+      "title": "Weightless",
+      "artist": "Marconi Union",
+      "mood": "calm",
+      "pathOrUrl": "https://www.youtube.com/watch?v=UfcAVejslrU",
+      "isLocal": false,
+      "genre": "Ambient",
+      "duration": 485
+    },
+    {
+      "title": "Clair de Lune",
+      "artist": "Claude Debussy",
+      "mood": "calm",
+      "pathOrUrl": "https://www.youtube.com/watch?v=CvFH_6DNRCY",
+      "isLocal": false,
+      "genre": "Classical",
+      "duration": 300
+    },
+    {
+      "title": "Aqueous Transmission",
+      "artist": "Incubus",
+      "mood": "calm",
+      "pathOrUrl": "https://www.youtube.com/watch?v=eQK7KSTQfaw",
+      "isLocal": false,
+      "genre": "Alternative",
+      "duration": 443
+    },
+    {
+      "title": "Gymnopédie No. 1",
+      "artist": "Erik Satie",
+      "mood": "calm",
+      "pathOrUrl": "https://www.youtube.com/watch?v=S-Xm7s9eGxU",
+      "isLocal": false,
+      "genre": "Classical",
+      "duration": 210
+    },
+    {
+      "title": "Porcelain",
+      "artist": "Moby",
+      "mood": "calm",
+      "pathOrUrl": "https://www.youtube.com/watch?v=IJWlBfo5Oj0",
+      "isLocal": false,
+      "genre": "Electronic",
+      "duration": 242
+    }
+  ],
+  "anxious": [
+    {
+      "title": "Breathe Me",
+      "artist": "Sia",
+      "mood": "anxious",
+      "pathOrUrl": "https://www.youtube.com/watch?v=hSjIz8oQuko",
+      "isLocal": false,
+      "genre": "Pop",
+      "duration": 272
+    },
+    {
+      "title": "Heavy",
+      "artist": "Linkin Park ft. Kiiara",
+      "mood": "anxious",
+      "pathOrUrl": "https://www.youtube.com/watch?v=5dmQ3QWpy1Q",
+      "isLocal": false,
+      "genre": "Alternative",
+      "duration": 167
+    },
+    {
+      "title": "Anxiety",
+      "artist": "Julia Michaels ft. Selena Gomez",
+      "mood": "anxious",
+      "pathOrUrl": "https://www.youtube.com/watch?v=CnAmeh0-E-U",
+      "isLocal": false,
+      "genre": "Pop",
+      "duration": 201
+    },
+    {
+      "title": "Unwell",
+      "artist": "Matchbox Twenty",
+      "mood": "anxious",
+      "pathOrUrl": "https://www.youtube.com/watch?v=WziA88-n02k",
+      "isLocal": false,
+      "genre": "Alternative Rock",
+      "duration": 227
+    },
+    {
+      "title": "Calm Down",
+      "artist": "Taylor Swift",
+      "mood": "anxious",
+      "pathOrUrl": "https://www.youtube.com/watch?v=Hi-Q5Q5_pVw",
+      "isLocal": false,
+      "genre": "Pop",
+      "duration": 195
+    }
+  ],
+  "angry": [
+    {
+      "title": "Break Stuff",
+      "artist": "Limp Bizkit",
+      "mood": "angry",
+      "pathOrUrl": "https://www.youtube.com/watch?v=ZpUYjpKg9KY",
+      "isLocal": false,
+      "genre": "Nu Metal",
+      "duration": 167
+    },
+    {
+      "title": "Killing in the Name",
+      "artist": "Rage Against the Machine",
+      "mood": "angry",
+      "pathOrUrl": "https://www.youtube.com/watch?v=bWXazVhlyxQ",
+      "isLocal": false,
+      "genre": "Alternative Metal",
+      "duration": 314
+    },
+    {
+      "title": "Bodies",
+      "artist": "Drowning Pool",
+      "mood": "angry",
+      "pathOrUrl": "https://www.youtube.com/watch?v=04F4xlWSFh0",
+      "isLocal": false,
+      "genre": "Nu Metal",
+      "duration": 203
+    },
+    {
+      "title": "Chop Suey!",
+      "artist": "System of a Down",
+      "mood": "angry",
+      "pathOrUrl": "https://www.youtube.com/watch?v=CSvFpBOe8eY",
+      "isLocal": false,
+      "genre": "Alternative Metal",
+      "duration": 210
+    },
+    {
+      "title": "Last Resort",
+      "artist": "Papa Roach",
+      "mood": "angry",
+      "pathOrUrl": "https://www.youtube.com/watch?v=j0lSpNtjPM8",
+      "isLocal": false,
+      "genre": "Nu Metal",
+      "duration": 200
+    }
+  ],
+  "romantic": [
+    {
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "mood": "romantic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+      "isLocal": false,
+      "genre": "Pop",
+      "duration": 263
+    },
+    {
+      "title": "All of Me",
+      "artist": "John Legend",
+      "mood": "romantic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=450p7goxZqg",
+      "isLocal": false,
+      "genre": "R&B",
+      "duration": 269
+    },
+    {
+      "title": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "mood": "romantic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=lp-EO5I60KA",
+      "isLocal": false,
+      "genre": "Pop",
+      "duration": 281
+    },
+    {
+      "title": "A Thousand Years",
+      "artist": "Christina Perri",
+      "mood": "romantic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=rtOvBOTyX00",
+      "isLocal": false,
+      "genre": "Pop",
+      "duration": 285
+    },
+    {
+      "title": "Make You Feel My Love",
+      "artist": "Adele",
+      "mood": "romantic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=0put0_a--Ng",
+      "isLocal": false,
+      "genre": "Soul",
+      "duration": 213
+    }
+  ],
+  "energetic": [
+    {
+      "title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis",
+      "mood": "energetic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=2zNSgSzhBfM",
+      "isLocal": false,
+      "genre": "Hip Hop",
+      "duration": 257
+    },
+    {
+      "title": "Titanium",
+      "artist": "David Guetta ft. Sia",
+      "mood": "energetic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=JRfuAukYTKg",
+      "isLocal": false,
+      "genre": "Electronic",
+      "duration": 245
+    },
+    {
+      "title": "Stronger",
+      "artist": "Kanye West",
+      "mood": "energetic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=PsO6ZnUZI0g",
+      "isLocal": false,
+      "genre": "Hip Hop",
+      "duration": 311
+    },
+    {
+      "title": "Pump It Up",
+      "artist": "Elvis Costello",
+      "mood": "energetic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=EmcMG4uxiHk",
+      "isLocal": false,
+      "genre": "New Wave",
+      "duration": 184
+    },
+    {
+      "title": "High Hopes",
+      "artist": "Panic! At The Disco",
+      "mood": "energetic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=IPXIgEAGe4U",
+      "isLocal": false,
+      "genre": "Pop Rock",
+      "duration": 191
+    }
+  ],
+  "melancholic": [
+    {
+      "title": "Mad World",
+      "artist": "Tears for Fears",
+      "mood": "melancholic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=u1ZvPSpLxCg",
+      "isLocal": false,
+      "genre": "New Wave",
+      "duration": 217
+    },
+    {
+      "title": "The Night We Met",
+      "artist": "Lord Huron",
+      "mood": "melancholic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=KUtdNSNWJbY",
+      "isLocal": false,
+      "genre": "Indie Folk",
+      "duration": 207
+    },
+    {
+      "title": "Skinny Love",
+      "artist": "Bon Iver",
+      "mood": "melancholic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=ssdgFoHLwnk",
+      "isLocal": false,
+      "genre": "Indie Folk",
+      "duration": 238
+    },
+    {
+      "title": "Hallelujah",
+      "artist": "Jeff Buckley",
+      "mood": "melancholic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=y8AWFf7EAc4",
+      "isLocal": false,
+      "genre": "Alternative Rock",
+      "duration": 427
+    },
+    {
+      "title": "Black",
+      "artist": "Pearl Jam",
+      "mood": "melancholic",
+      "pathOrUrl": "https://www.youtube.com/watch?v=5ZH2it92ZmA",
+      "isLocal": false,
+      "genre": "Grunge",
+      "duration": 348
+    }
+  ]
+}

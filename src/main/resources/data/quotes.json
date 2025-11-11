@@ -1,0 +1,322 @@
+{
+  "happy": [
+    {
+      "text": "Happiness is a direction, not a place.",
+      "author": "Sydney J. Harris",
+      "mood": "happy",
+      "source": "local"
+    },
+    {
+      "text": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "mood": "happy",
+      "source": "local"
+    },
+    {
+      "text": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "mood": "happy",
+      "source": "local"
+    },
+    {
+      "text": "The happiest people don't have the best of everything, they just make the best of everything.",
+      "author": "Unknown",
+      "mood": "happy",
+      "source": "local"
+    },
+    {
+      "text": "Happiness is when what you think, what you say, and what you do are in harmony.",
+      "author": "Mahatma Gandhi",
+      "mood": "happy",
+      "source": "local"
+    }
+  ],
+  "sad": [
+    {
+      "text": "Tears come from the heart and not from the brain.",
+      "author": "Leonardo da Vinci",
+      "mood": "sad",
+      "source": "local"
+    },
+    {
+      "text": "The way sadness works is one of the strange riddles of the world.",
+      "author": "Lemony Snicket",
+      "mood": "sad",
+      "source": "local"
+    },
+    {
+      "text": "Every man has his secret sorrows which the world knows not.",
+      "author": "Henry Wadsworth Longfellow",
+      "mood": "sad",
+      "source": "local"
+    },
+    {
+      "text": "The good times of today are the sad thoughts of tomorrow.",
+      "author": "Bob Marley",
+      "mood": "sad",
+      "source": "local"
+    },
+    {
+      "text": "Sadness flies away on the wings of time.",
+      "author": "Jean de La Fontaine",
+      "mood": "sad",
+      "source": "local"
+    }
+  ],
+  "stressed": [
+    {
+      "text": "Don't stress. Do your best. Forget the rest.",
+      "author": "Unknown",
+      "mood": "stressed",
+      "source": "local"
+    },
+    {
+      "text": "Stress is caused by being 'here' but wanting to be 'there'.",
+      "author": "Eckhart Tolle",
+      "mood": "stressed",
+      "source": "local"
+    },
+    {
+      "text": "Take time to make your soul happy.",
+      "author": "Unknown",
+      "mood": "stressed",
+      "source": "local"
+    },
+    {
+      "text": "You have been assigned this mountain to show others it can be moved.",
+      "author": "Mel Robbins",
+      "mood": "stressed",
+      "source": "local"
+    },
+    {
+      "text": "Sometimes the most productive thing you can do is relax.",
+      "author": "Mark Black",
+      "mood": "stressed",
+      "source": "local"
+    }
+  ],
+  "excited": [
+    {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "mood": "excited",
+      "source": "local"
+    },
+    {
+      "text": "Your limitation—it's only your imagination.",
+      "author": "Unknown",
+      "mood": "excited",
+      "source": "local"
+    },
+    {
+      "text": "Push yourself, because no one else is going to do it for you.",
+      "author": "Unknown",
+      "mood": "excited",
+      "source": "local"
+    },
+    {
+      "text": "Great things never come from comfort zones.",
+      "author": "Unknown",
+      "mood": "excited",
+      "source": "local"
+    },
+    {
+      "text": "Dream it. Wish it. Do it.",
+      "author": "Unknown",
+      "mood": "excited",
+      "source": "local"
+    }
+  ],
+  "calm": [
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "mood": "calm",
+      "source": "local"
+    },
+    {
+      "text": "Calm mind brings inner strength and self-confidence.",
+      "author": "Dalai Lama",
+      "mood": "calm",
+      "source": "local"
+    },
+    {
+      "text": "In the midst of movement and chaos, keep stillness inside of you.",
+      "author": "Deepak Chopra",
+      "mood": "calm",
+      "source": "local"
+    },
+    {
+      "text": "Nothing can bring you peace but yourself.",
+      "author": "Ralph Waldo Emerson",
+      "mood": "calm",
+      "source": "local"
+    },
+    {
+      "text": "The quieter you become, the more able you are to hear.",
+      "author": "Rumi",
+      "mood": "calm",
+      "source": "local"
+    }
+  ],
+  "anxious": [
+    {
+      "text": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+      "author": "A.A. Milne",
+      "mood": "anxious",
+      "source": "local"
+    },
+    {
+      "text": "Anxiety is the dizziness of freedom.",
+      "author": "Søren Kierkegaard",
+      "mood": "anxious",
+      "source": "local"
+    },
+    {
+      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "mood": "anxious",
+      "source": "local"
+    },
+    {
+      "text": "Worrying does not take away tomorrow's troubles, it takes away today's peace.",
+      "author": "Unknown",
+      "mood": "anxious",
+      "source": "local"
+    },
+    {
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell",
+      "mood": "anxious",
+      "source": "local"
+    }
+  ],
+  "angry": [
+    {
+      "text": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.",
+      "author": "Buddha",
+      "mood": "angry",
+      "source": "local"
+    },
+    {
+      "text": "For every minute you remain angry, you give up sixty seconds of peace of mind.",
+      "author": "Ralph Waldo Emerson",
+      "mood": "angry",
+      "source": "local"
+    },
+    {
+      "text": "Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.",
+      "author": "Mark Twain",
+      "mood": "angry",
+      "source": "local"
+    },
+    {
+      "text": "The best fighter is never angry.",
+      "author": "Lao Tzu",
+      "mood": "angry",
+      "source": "local"
+    },
+    {
+      "text": "Speak when you are angry and you will make the best speech you will ever regret.",
+      "author": "Ambrose Bierce",
+      "mood": "angry",
+      "source": "local"
+    }
+  ],
+  "romantic": [
+    {
+      "text": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+      "author": "Lao Tzu",
+      "mood": "romantic",
+      "source": "local"
+    },
+    {
+      "text": "Love is composed of a single soul inhabiting two bodies.",
+      "author": "Aristotle",
+      "mood": "romantic",
+      "source": "local"
+    },
+    {
+      "text": "The best thing to hold onto in life is each other.",
+      "author": "Audrey Hepburn",
+      "mood": "romantic",
+      "source": "local"
+    },
+    {
+      "text": "Love is not about how many days, months, or years you have been together. Love is about how much you love each other every single day.",
+      "author": "Unknown",
+      "mood": "romantic",
+      "source": "local"
+    },
+    {
+      "text": "In all the world, there is no heart for me like yours. In all the world, there is no love for you like mine.",
+      "author": "Maya Angelou",
+      "mood": "romantic",
+      "source": "local"
+    }
+  ],
+  "energetic": [
+    {
+      "text": "Energy and persistence conquer all things.",
+      "author": "Benjamin Franklin",
+      "mood": "energetic",
+      "source": "local"
+    },
+    {
+      "text": "The energy of the mind is the essence of life.",
+      "author": "Aristotle",
+      "mood": "energetic",
+      "source": "local"
+    },
+    {
+      "text": "Don't wait for opportunity. Create it.",
+      "author": "Unknown",
+      "mood": "energetic",
+      "source": "local"
+    },
+    {
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill",
+      "mood": "energetic",
+      "source": "local"
+    },
+    {
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "mood": "energetic",
+      "source": "local"
+    }
+  ],
+  "melancholic": [
+    {
+      "text": "The word 'happiness' would lose its meaning if it were not balanced by sadness.",
+      "author": "Carl Jung",
+      "mood": "melancholic",
+      "source": "local"
+    },
+    {
+      "text": "There is a sacredness in tears. They are not the mark of weakness, but of power.",
+      "author": "Washington Irving",
+      "mood": "melancholic",
+      "source": "local"
+    },
+    {
+      "text": "The deeper that sorrow carves into your being, the more joy you can contain.",
+      "author": "Kahlil Gibran",
+      "mood": "melancholic",
+      "source": "local"
+    },
+    {
+      "text": "Sometimes you need to sit lonely on the floor in a quiet room in order to hear your own voice and not let it drown in the noise of others.",
+      "author": "Charlotte Eriksson",
+      "mood": "melancholic",
+      "source": "local"
+    },
+    {
+      "text": "The most beautiful people I've known are those who have known trials, have known struggles, have known loss, and have found their way out of the depths.",
+      "author": "Elisabeth Kübler-Ross",
+      "mood": "melancholic",
+      "source": "local"
+    }
+  ]
+}
